@@ -157,9 +157,9 @@
 
                   
                   <span class="file-info-divider"></span>
-                  Modified <relative-time datetime="Sun, 06 Mar 2022 00:46:11 &#43;0900"
+                  Modified <relative-time datetime="Sun, 06 Mar 2022 00:46:10 &#43;0900"
                     class="no-wrap">
-                    Sun, 06 Mar 2022 00:46:11 &#43;0900</relative-time>
+                    Sun, 06 Mar 2022 00:46:10 &#43;0900</relative-time>
                   
                 </div>
               </div>
@@ -239,7 +239,7 @@
 <p>定数の宣言</p>
 </blockquote>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="c1">// アクセス修飾子　final 定数の型　定数名;
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">public</span> <span class="kd">static</span> <span class="kd">final</span> <span class="kt">int</span> <span class="n">NUMBER</span> <span class="o">=</span> <span class="n">10</span><span class="o">;</span>
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">public</span> <span class="kd">static</span> <span class="kd">final</span> <span class="kt">int</span> <span class="n">NUMBER</span> <span class="o">=</span> <span class="mi">10</span><span class="o">;</span>
 </span></span></code></pre></div><blockquote>
 <p>インスタンス(instance)変数 - 实例</p>
 </blockquote>
@@ -273,14 +273,14 @@
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kt">int</span> <span class="o">[]</span> <span class="n">array</span><span class="o">;</span><span class="c1">// 宣言
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span>
 </span></span><span class="line"><span class="cl"><span class="c1">// 変数名 = new 要素のデータ型[要素数]
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="n">array</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">int</span><span class="o">[</span><span class="n">3</span><span class="o">];</span><span class="c1">//インスタンスの生成,参照を変数に代入
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="n">array</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">int</span><span class="o">[</span><span class="mi">3</span><span class="o">];</span><span class="c1">//インスタンスの生成,参照を変数に代入
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span>
 </span></span><span class="line"><span class="cl"><span class="c1">// int 配列型変数の宣言、配列インスタンスの生成、参照を変数に代入
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kt">int</span><span class="o">[]</span> <span class="n">array</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">int</span><span class="o">[</span><span class="n">3</span><span class="o">];</span>
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kt">int</span><span class="o">[]</span> <span class="n">array</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">int</span><span class="o">[</span><span class="mi">3</span><span class="o">];</span>
 </span></span></code></pre></div><blockquote>
 <p>配列の長さを参照する方法</p>
 </blockquote>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Java" data-lang="Java"><span class="line"><span class="cl"><span class="kt">int</span><span class="o">[]</span> <span class="n">array</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">int</span><span class="o">[</span><span class="n">3</span><span class="o">];</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-Java" data-lang="Java"><span class="line"><span class="cl"><span class="kt">int</span><span class="o">[]</span> <span class="n">array</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">int</span><span class="o">[</span><span class="mi">3</span><span class="o">];</span>
 </span></span><span class="line"><span class="cl"><span class="c1">// 配列の長さ
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="n">array</span><span class="o">.</span><span class="na">length</span><span class="o">;</span>
 </span></span></code></pre></div><blockquote>
@@ -429,13 +429,13 @@
 <p>「６：２０」と表示される</p>
 </blockquote>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
-</span></span><span class="line"><span class="cl">        <span class="kt">int</span> <span class="n">a</span> <span class="o">=</span> <span class="n">12</span><span class="o">;</span>
-</span></span><span class="line"><span class="cl">        <span class="kt">int</span> <span class="n">b</span>  <span class="o">=</span> <span class="n">8</span> <span class="o">;</span>
-</span></span><span class="line"><span class="cl">        <span class="k">if</span><span class="o">(</span><span class="n">a</span><span class="o">&gt;=</span><span class="n">10</span><span class="o">||</span><span class="n">b</span><span class="o">&gt;=</span><span class="n">10</span><span class="o">){</span>　<span class="c1">// a &gt;=10 --&gt; true
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">a</span> <span class="o">/=</span> <span class="n">2</span><span class="o">;</span> <span class="c1">// a = 6
+</span></span><span class="line"><span class="cl">        <span class="kt">int</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">12</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">        <span class="kt">int</span> <span class="n">b</span>  <span class="o">=</span> <span class="mi">8</span> <span class="o">;</span>
+</span></span><span class="line"><span class="cl">        <span class="k">if</span><span class="o">(</span><span class="n">a</span><span class="o">&gt;=</span><span class="mi">10</span><span class="o">||</span><span class="n">b</span><span class="o">&gt;=</span><span class="mi">10</span><span class="o">){</span>　<span class="c1">// a &gt;=10 --&gt; true
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">a</span> <span class="o">/=</span> <span class="mi">2</span><span class="o">;</span> <span class="c1">// a = 6
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">b</span><span class="o">+=</span><span class="n">a</span><span class="o">;</span>  <span class="c1">// b = 6+8 = 14
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="o">}</span><span class="k">else</span> <span class="c1">// &lt;---{ なし
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">a</span> <span class="o">/=</span><span class="n">2</span><span class="o">;</span> <span class="c1">// } によって
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">a</span> <span class="o">/=</span><span class="mi">2</span><span class="o">;</span> <span class="c1">// } によって
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span>
 </span></span><span class="line"><span class="cl">            <span class="n">b</span> <span class="o">+=</span><span class="n">a</span><span class="o">;</span> <span class="c1">// 14+6 = 20
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="n">a</span><span class="o">+</span><span class="s">&#34;:&#34;</span><span class="o">+</span><span class="n">b</span><span class="o">);</span> <span class="c1">// 6 : 20
@@ -444,28 +444,28 @@
 <p>10:10と表示される</p>
 </blockquote>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
-</span></span><span class="line"><span class="cl">            <span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="n">5</span><span class="o">;</span>
+</span></span><span class="line"><span class="cl">            <span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">5</span><span class="o">;</span>
 </span></span><span class="line"><span class="cl">							<span class="c1">// i = 5 + 5  --&gt;i+=5
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="c1">// iを使用した後で +1; i++
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="c1">// iを+1した後で使用する; ++i
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">((</span><span class="n">i</span><span class="o">+=</span><span class="n">5</span><span class="o">)+</span><span class="s">&#34;:&#34;</span><span class="o">+(</span><span class="n">i</span><span class="o">--));</span>
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">((</span><span class="n">i</span><span class="o">+=</span><span class="mi">5</span><span class="o">)+</span><span class="s">&#34;:&#34;</span><span class="o">+(</span><span class="n">i</span><span class="o">--));</span>
 </span></span><span class="line"><span class="cl">            <span class="c1">// 10:10
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">((</span><span class="n">i</span><span class="o">+=</span><span class="n">5</span><span class="o">)+</span><span class="s">&#34;:&#34;</span><span class="o">+(--</span><span class="n">i</span><span class="o">));</span>
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>            <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">((</span><span class="n">i</span><span class="o">+=</span><span class="mi">5</span><span class="o">)+</span><span class="s">&#34;:&#34;</span><span class="o">+(--</span><span class="n">i</span><span class="o">));</span>
 </span></span><span class="line"><span class="cl">            <span class="c1">// 10:9
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="o">}</span>
 </span></span></code></pre></div><blockquote>
 <p>2  2.5と表示される</p>
 </blockquote>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
-</span></span><span class="line"><span class="cl">        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="n">5</span><span class="o">/</span><span class="n">2</span><span class="o">);</span> <span class="c1">// 2 (int)
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="n">5</span><span class="o">/</span><span class="n">2</span><span class="o">.</span><span class="na">0</span><span class="o">);</span> <span class="c1">// 2.5 (float)
+</span></span><span class="line"><span class="cl">        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="mi">5</span><span class="o">/</span><span class="mi">2</span><span class="o">);</span> <span class="c1">// 2 (int)
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span>        <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="mi">5</span><span class="o">/</span><span class="mi">2</span><span class="o">.</span><span class="na">0</span><span class="o">);</span> <span class="c1">// 2.5 (float)
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="o">}</span>
 </span></span></code></pre></div><blockquote>
 <p>final宣言 &amp;&amp; static宣言</p>
 </blockquote>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="kd">final</span> <span class="kt">int</span> <span class="n">obj</span> <span class="o">=</span><span class="n">1</span><span class="o">;</span> <span class="c1">// final
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-java" data-lang="java"><span class="line"><span class="cl"><span class="kd">final</span> <span class="kt">int</span> <span class="n">obj</span> <span class="o">=</span><span class="mi">1</span><span class="o">;</span> <span class="c1">// final
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">final</span> <span class="kd">class</span> <span class="nf">Demo</span><span class="o">(){}</span>  <span class="c1">// final
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">static</span> <span class="kt">int</span> <span class="n">obj</span> <span class="o">=</span> <span class="n">2</span><span class="o">;</span> <span class="c1">// static フィールド
+</span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">static</span> <span class="kt">int</span> <span class="n">obj</span> <span class="o">=</span> <span class="mi">2</span><span class="o">;</span> <span class="c1">// static フィールド
 </span></span></span><span class="line"><span class="cl"><span class="c1"></span><span class="kd">static</span> <span class="kt">void</span> <span class="nf">Demo</span><span class="o">(){}</span> <span class="c1">// static　メソッド
 </span></span></span></code></pre></div><blockquote>
 <p>ポリモーフィズム</p>
