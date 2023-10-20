@@ -2,404 +2,404 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on WinterCat&#39;s blog</title>
-    <link>example.com/tags/</link>
+    <link>https://summersnowwintercat.github.io/tags/</link>
     <description>Recent content in Tags on WinterCat&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 27 Feb 2022 09:05:40 +0900</lastBuildDate><atom:link href="example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Feb 2022 09:05:40 +0900</lastBuildDate><atom:link href="https://summersnowwintercat.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
-      <link>example.com/tags/java/</link>
+      <link>https://summersnowwintercat.github.io/tags/java/</link>
       <pubDate>Sun, 27 Feb 2022 09:05:40 +0900</pubDate>
       
-      <guid>example.com/tags/java/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>java bronze</title>
-      <link>example.com/tags/java-bronze/</link>
+      <link>https://summersnowwintercat.github.io/tags/java-bronze/</link>
       <pubDate>Sun, 27 Feb 2022 09:05:40 +0900</pubDate>
       
-      <guid>example.com/tags/java-bronze/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/java-bronze/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chinese</title>
-      <link>example.com/tags/chinese/</link>
+      <link>https://summersnowwintercat.github.io/tags/chinese/</link>
       <pubDate>Tue, 15 Feb 2022 10:03:37 +0900</pubDate>
       
-      <guid>example.com/tags/chinese/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/chinese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>example.com/tags/english/</link>
+      <link>https://summersnowwintercat.github.io/tags/english/</link>
       <pubDate>Tue, 15 Feb 2022 10:03:37 +0900</pubDate>
       
-      <guid>example.com/tags/english/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Japanese</title>
-      <link>example.com/tags/japanese/</link>
+      <link>https://summersnowwintercat.github.io/tags/japanese/</link>
       <pubDate>Tue, 15 Feb 2022 10:03:37 +0900</pubDate>
       
-      <guid>example.com/tags/japanese/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/japanese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Js</title>
-      <link>example.com/tags/js/</link>
+      <link>https://summersnowwintercat.github.io/tags/js/</link>
       <pubDate>Sun, 09 Jan 2022 00:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/js/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vue</title>
-      <link>example.com/tags/vue/</link>
+      <link>https://summersnowwintercat.github.io/tags/vue/</link>
       <pubDate>Sun, 09 Jan 2022 00:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/vue/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/vue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JPA</title>
-      <link>example.com/tags/jpa/</link>
+      <link>https://summersnowwintercat.github.io/tags/jpa/</link>
       <pubDate>Tue, 04 Jan 2022 12:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/jpa/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/jpa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring</title>
-      <link>example.com/tags/spring/</link>
+      <link>https://summersnowwintercat.github.io/tags/spring/</link>
       <pubDate>Tue, 04 Jan 2022 12:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/spring/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ctrl&#43;F</title>
-      <link>example.com/tags/ctrl&#43;f/</link>
+      <link>https://summersnowwintercat.github.io/tags/ctrl&#43;f/</link>
       <pubDate>Mon, 03 Jan 2022 04:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/ctrl&#43;f/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/ctrl&#43;f/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SpringBoot</title>
-      <link>example.com/tags/springboot/</link>
+      <link>https://summersnowwintercat.github.io/tags/springboot/</link>
       <pubDate>Mon, 03 Jan 2022 04:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/springboot/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/springboot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maven</title>
-      <link>example.com/tags/maven/</link>
+      <link>https://summersnowwintercat.github.io/tags/maven/</link>
       <pubDate>Fri, 24 Dec 2021 16:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/maven/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/maven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flask</title>
-      <link>example.com/tags/flask/</link>
+      <link>https://summersnowwintercat.github.io/tags/flask/</link>
       <pubDate>Tue, 21 Dec 2021 14:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/flask/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>example.com/tags/python/</link>
+      <link>https://summersnowwintercat.github.io/tags/python/</link>
       <pubDate>Tue, 21 Dec 2021 14:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/python/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Request</title>
-      <link>example.com/tags/request/</link>
+      <link>https://summersnowwintercat.github.io/tags/request/</link>
       <pubDate>Tue, 21 Dec 2021 14:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/request/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/request/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Response</title>
-      <link>example.com/tags/response/</link>
+      <link>https://summersnowwintercat.github.io/tags/response/</link>
       <pubDate>Tue, 21 Dec 2021 14:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/response/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/response/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M1</title>
-      <link>example.com/tags/m1/</link>
+      <link>https://summersnowwintercat.github.io/tags/m1/</link>
       <pubDate>Sat, 18 Dec 2021 10:10:40 +0900</pubDate>
       
-      <guid>example.com/tags/m1/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/m1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M1Max</title>
-      <link>example.com/tags/m1max/</link>
+      <link>https://summersnowwintercat.github.io/tags/m1max/</link>
       <pubDate>Sat, 18 Dec 2021 10:10:40 +0900</pubDate>
       
-      <guid>example.com/tags/m1max/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/m1max/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M1Pro</title>
-      <link>example.com/tags/m1pro/</link>
+      <link>https://summersnowwintercat.github.io/tags/m1pro/</link>
       <pubDate>Sat, 18 Dec 2021 10:10:40 +0900</pubDate>
       
-      <guid>example.com/tags/m1pro/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/m1pro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>example.com/tags/go/</link>
+      <link>https://summersnowwintercat.github.io/tags/go/</link>
       <pubDate>Tue, 14 Dec 2021 19:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/go/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go-dev</title>
-      <link>example.com/tags/go-dev/</link>
+      <link>https://summersnowwintercat.github.io/tags/go-dev/</link>
       <pubDate>Tue, 14 Dec 2021 19:10:50 +0900</pubDate>
       
-      <guid>example.com/tags/go-dev/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/go-dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tweepy</title>
-      <link>example.com/tags/tweepy/</link>
+      <link>https://summersnowwintercat.github.io/tags/tweepy/</link>
       <pubDate>Tue, 07 Dec 2021 20:30:47 +0900</pubDate>
       
-      <guid>example.com/tags/tweepy/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/tweepy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twitter</title>
-      <link>example.com/tags/twitter/</link>
+      <link>https://summersnowwintercat.github.io/tags/twitter/</link>
       <pubDate>Tue, 07 Dec 2021 20:30:47 +0900</pubDate>
       
-      <guid>example.com/tags/twitter/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/twitter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cat</title>
-      <link>example.com/tags/cat/</link>
+      <link>https://summersnowwintercat.github.io/tags/cat/</link>
       <pubDate>Sat, 02 Oct 2021 17:30:00 +0900</pubDate>
       
-      <guid>example.com/tags/cat/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/cat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>アメリカショットヘア</title>
-      <link>example.com/tags/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%83%98%E3%82%A2/</link>
+      <link>https://summersnowwintercat.github.io/tags/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%83%98%E3%82%A2/</link>
       <pubDate>Sat, 02 Oct 2021 17:30:00 +0900</pubDate>
       
-      <guid>example.com/tags/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%83%98%E3%82%A2/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%E3%83%98%E3%82%A2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>子猫</title>
-      <link>example.com/tags/%E5%AD%90%E7%8C%AB/</link>
+      <link>https://summersnowwintercat.github.io/tags/%E5%AD%90%E7%8C%AB/</link>
       <pubDate>Sat, 02 Oct 2021 17:30:00 +0900</pubDate>
       
-      <guid>example.com/tags/%E5%AD%90%E7%8C%AB/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/%E5%AD%90%E7%8C%AB/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>example.com/tags/image/</link>
+      <link>https://summersnowwintercat.github.io/tags/image/</link>
       <pubDate>Tue, 29 Jun 2021 20:31:37 +0900</pubDate>
       
-      <guid>example.com/tags/image/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenCV</title>
-      <link>example.com/tags/opencv/</link>
+      <link>https://summersnowwintercat.github.io/tags/opencv/</link>
       <pubDate>Tue, 29 Jun 2021 20:31:37 +0900</pubDate>
       
-      <guid>example.com/tags/opencv/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/opencv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Position</title>
-      <link>example.com/tags/position/</link>
+      <link>https://summersnowwintercat.github.io/tags/position/</link>
       <pubDate>Tue, 29 Jun 2021 20:31:37 +0900</pubDate>
       
-      <guid>example.com/tags/position/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/position/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bs4</title>
-      <link>example.com/tags/bs4/</link>
+      <link>https://summersnowwintercat.github.io/tags/bs4/</link>
       <pubDate>Tue, 20 Oct 2020 10:05:40 +0900</pubDate>
       
-      <guid>example.com/tags/bs4/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/bs4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>urllib</title>
-      <link>example.com/tags/urllib/</link>
+      <link>https://summersnowwintercat.github.io/tags/urllib/</link>
       <pubDate>Tue, 20 Oct 2020 10:05:40 +0900</pubDate>
       
-      <guid>example.com/tags/urllib/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/urllib/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web</title>
-      <link>example.com/tags/web/</link>
+      <link>https://summersnowwintercat.github.io/tags/web/</link>
       <pubDate>Tue, 20 Oct 2020 10:05:40 +0900</pubDate>
       
-      <guid>example.com/tags/web/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DataBase</title>
-      <link>example.com/tags/database/</link>
+      <link>https://summersnowwintercat.github.io/tags/database/</link>
       <pubDate>Wed, 07 Oct 2020 10:30:37 +0900</pubDate>
       
-      <guid>example.com/tags/database/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MySQL</title>
-      <link>example.com/tags/mysql/</link>
+      <link>https://summersnowwintercat.github.io/tags/mysql/</link>
       <pubDate>Wed, 07 Oct 2020 10:30:37 +0900</pubDate>
       
-      <guid>example.com/tags/mysql/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bash</title>
-      <link>example.com/tags/bash/</link>
+      <link>https://summersnowwintercat.github.io/tags/bash/</link>
       <pubDate>Mon, 10 Aug 2020 11:20:37 +0900</pubDate>
       
-      <guid>example.com/tags/bash/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/bash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shell</title>
-      <link>example.com/tags/shell/</link>
+      <link>https://summersnowwintercat.github.io/tags/shell/</link>
       <pubDate>Mon, 10 Aug 2020 11:20:37 +0900</pubDate>
       
-      <guid>example.com/tags/shell/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ubuntu</title>
-      <link>example.com/tags/ubuntu/</link>
+      <link>https://summersnowwintercat.github.io/tags/ubuntu/</link>
       <pubDate>Mon, 10 Aug 2020 11:20:37 +0900</pubDate>
       
-      <guid>example.com/tags/ubuntu/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Catalina</title>
-      <link>example.com/tags/catalina/</link>
+      <link>https://summersnowwintercat.github.io/tags/catalina/</link>
       <pubDate>Fri, 17 Jul 2020 12:53:37 +0900</pubDate>
       
-      <guid>example.com/tags/catalina/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/catalina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hackintosh</title>
-      <link>example.com/tags/hackintosh/</link>
+      <link>https://summersnowwintercat.github.io/tags/hackintosh/</link>
       <pubDate>Fri, 17 Jul 2020 12:53:37 +0900</pubDate>
       
-      <guid>example.com/tags/hackintosh/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/hackintosh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NUC10i5</title>
-      <link>example.com/tags/nuc10i5/</link>
+      <link>https://summersnowwintercat.github.io/tags/nuc10i5/</link>
       <pubDate>Fri, 17 Jul 2020 12:53:37 +0900</pubDate>
       
-      <guid>example.com/tags/nuc10i5/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/nuc10i5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MeCab</title>
-      <link>example.com/tags/mecab/</link>
+      <link>https://summersnowwintercat.github.io/tags/mecab/</link>
       <pubDate>Sun, 19 Jan 2020 10:40:50 +0900</pubDate>
       
-      <guid>example.com/tags/mecab/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/mecab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>File</title>
-      <link>example.com/tags/file/</link>
+      <link>https://summersnowwintercat.github.io/tags/file/</link>
       <pubDate>Mon, 10 Sep 2018 01:20:37 +0900</pubDate>
       
-      <guid>example.com/tags/file/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/file/</guid>
       <description></description>
     </item>
     
     <item>
       <title>os</title>
-      <link>example.com/tags/os/</link>
+      <link>https://summersnowwintercat.github.io/tags/os/</link>
       <pubDate>Mon, 10 Sep 2018 01:20:37 +0900</pubDate>
       
-      <guid>example.com/tags/os/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/os/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MyQR</title>
-      <link>example.com/tags/myqr/</link>
+      <link>https://summersnowwintercat.github.io/tags/myqr/</link>
       <pubDate>Fri, 17 Aug 2018 10:30:37 +0900</pubDate>
       
-      <guid>example.com/tags/myqr/</guid>
+      <guid>https://summersnowwintercat.github.io/tags/myqr/</guid>
       <description></description>
     </item>
     

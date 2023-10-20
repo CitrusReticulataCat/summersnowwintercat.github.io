@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on WinterCat&#39;s blog</title>
-    <link>example.com/tags/python/</link>
+    <link>https://summersnowwintercat.github.io/tags/python/</link>
     <description>Recent content in Python on WinterCat&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 21 Dec 2021 14:10:50 +0900</lastBuildDate><atom:link href="example.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Dec 2021 14:10:50 +0900</lastBuildDate><atom:link href="https://summersnowwintercat.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> About Flask </title>
-      <link>example.com/post/aboutflask/</link>
+      <link>https://summersnowwintercat.github.io/post/aboutflask/</link>
       <pubDate>Tue, 21 Dec 2021 14:10:50 +0900</pubDate>
       
-      <guid>example.com/post/aboutflask/</guid>
+      <guid>https://summersnowwintercat.github.io/post/aboutflask/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Flask&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -21,20 +21,20 @@
     
     <item>
       <title>Twitter Tweepy</title>
-      <link>example.com/post/abouttwitter/</link>
+      <link>https://summersnowwintercat.github.io/post/abouttwitter/</link>
       <pubDate>Tue, 07 Dec 2021 20:30:47 +0900</pubDate>
       
-      <guid>example.com/post/abouttwitter/</guid>
+      <guid>https://summersnowwintercat.github.io/post/abouttwitter/</guid>
       <description>&lt;p&gt;How to Use Tweepy&lt;/p&gt;
 &lt;p&gt;Python で　TwitterApiを通して、キーワードに関する内容を検索&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Python Opencv Template Matching</title>
-      <link>example.com/post/opencvtemplatematching/</link>
+      <link>https://summersnowwintercat.github.io/post/opencvtemplatematching/</link>
       <pubDate>Tue, 29 Jun 2021 20:31:37 +0900</pubDate>
       
-      <guid>example.com/post/opencvtemplatematching/</guid>
+      <guid>https://summersnowwintercat.github.io/post/opencvtemplatematching/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;OpenCV Template Matching&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -43,10 +43,10 @@
     
     <item>
       <title>MySQL Connector Pooling</title>
-      <link>example.com/post/mysqlconnectorpooling/</link>
+      <link>https://summersnowwintercat.github.io/post/mysqlconnectorpooling/</link>
       <pubDate>Wed, 07 Oct 2020 10:30:37 +0900</pubDate>
       
-      <guid>example.com/post/mysqlconnectorpooling/</guid>
+      <guid>https://summersnowwintercat.github.io/post/mysqlconnectorpooling/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;MySQL Connector Pooling&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -55,10 +55,10 @@
     
     <item>
       <title> About MeCab </title>
-      <link>example.com/post/aboutmecab/</link>
+      <link>https://summersnowwintercat.github.io/post/aboutmecab/</link>
       <pubDate>Sun, 19 Jan 2020 10:40:50 +0900</pubDate>
       
-      <guid>example.com/post/aboutmecab/</guid>
+      <guid>https://summersnowwintercat.github.io/post/aboutmecab/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;About MeCab&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -69,20 +69,20 @@
     
     <item>
       <title>PythonFileCalculation</title>
-      <link>example.com/post/python_file_calculation/</link>
+      <link>https://summersnowwintercat.github.io/post/python_file_calculation/</link>
       <pubDate>Mon, 10 Sep 2018 01:20:37 +0900</pubDate>
       
-      <guid>example.com/post/python_file_calculation/</guid>
+      <guid>https://summersnowwintercat.github.io/post/python_file_calculation/</guid>
       <description>&lt;p&gt;File Calculation&lt;/p&gt;
 &lt;p&gt;File Calucution ファンクション&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Python MyQR Module</title>
-      <link>example.com/post/python_myqr/</link>
+      <link>https://summersnowwintercat.github.io/post/python_myqr/</link>
       <pubDate>Fri, 17 Aug 2018 10:30:37 +0900</pubDate>
       
-      <guid>example.com/post/python_myqr/</guid>
+      <guid>https://summersnowwintercat.github.io/post/python_myqr/</guid>
       <description>&lt;p&gt;PythonでQRコードを作る方法〜&lt;/p&gt;
 &lt;p&gt;install MyQR!&lt;/p&gt;</description>
     </item>

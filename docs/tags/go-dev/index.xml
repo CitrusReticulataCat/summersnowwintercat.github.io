@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go-dev on WinterCat&#39;s blog</title>
-    <link>example.com/tags/go-dev/</link>
+    <link>https://summersnowwintercat.github.io/tags/go-dev/</link>
     <description>Recent content in Go-dev on WinterCat&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 14 Dec 2021 19:10:50 +0900</lastBuildDate><atom:link href="example.com/tags/go-dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Dec 2021 19:10:50 +0900</lastBuildDate><atom:link href="https://summersnowwintercat.github.io/tags/go-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> About Go </title>
-      <link>example.com/post/aboutgo/</link>
+      <link>https://summersnowwintercat.github.io/post/aboutgo/</link>
       <pubDate>Tue, 14 Dec 2021 19:10:50 +0900</pubDate>
       
-      <guid>example.com/post/aboutgo/</guid>
+      <guid>https://summersnowwintercat.github.io/post/aboutgo/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Go&lt;/p&gt;
 &lt;/blockquote&gt;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Response on WinterCat&#39;s blog</title>
-    <link>example.com/tags/response/</link>
+    <link>https://summersnowwintercat.github.io/tags/response/</link>
     <description>Recent content in Response on WinterCat&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 21 Dec 2021 14:10:50 +0900</lastBuildDate><atom:link href="example.com/tags/response/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Dec 2021 14:10:50 +0900</lastBuildDate><atom:link href="https://summersnowwintercat.github.io/tags/response/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> About Flask </title>
-      <link>example.com/post/aboutflask/</link>
+      <link>https://summersnowwintercat.github.io/post/aboutflask/</link>
       <pubDate>Tue, 21 Dec 2021 14:10:50 +0900</pubDate>
       
-      <guid>example.com/post/aboutflask/</guid>
+      <guid>https://summersnowwintercat.github.io/post/aboutflask/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Flask&lt;/p&gt;
 &lt;/blockquote&gt;
