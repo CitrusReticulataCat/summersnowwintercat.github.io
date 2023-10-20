@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WinterCat&#39;s blog</title>
-    <link>https://summersnowwintercat.github.io/</link>
+    <link>example.com/</link>
     <description>Recent content on WinterCat&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 27 Feb 2022 09:05:40 +0900</lastBuildDate><atom:link href="https://summersnowwintercat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Feb 2022 09:05:40 +0900</lastBuildDate><atom:link href="example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java Bronze( Japanese ver )</title>
-      <link>https://summersnowwintercat.github.io/post/javabronze/</link>
+      <link>example.com/post/javabronze/</link>
       <pubDate>Sun, 27 Feb 2022 09:05:40 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/javabronze/</guid>
+      <guid>example.com/post/javabronze/</guid>
       <description>&lt;p&gt;٩(๑òωó๑)۶ ファイト〜&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Comparison Table</title>
-      <link>https://summersnowwintercat.github.io/post/comparisontable/</link>
+      <link>example.com/post/comparisontable/</link>
       <pubDate>Tue, 15 Feb 2022 10:03:37 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/comparisontable/</guid>
+      <guid>example.com/post/comparisontable/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;単語参照表　&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -30,10 +30,10 @@
     
     <item>
       <title> About Vue.js </title>
-      <link>https://summersnowwintercat.github.io/post/aboutvue/</link>
+      <link>example.com/post/aboutvue/</link>
       <pubDate>Sun, 09 Jan 2022 00:10:50 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/aboutvue/</guid>
+      <guid>example.com/post/aboutvue/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;About Vue.js&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title> About SpringDataJPA </title>
-      <link>https://summersnowwintercat.github.io/post/aboutspringdatajpa/</link>
+      <link>example.com/post/aboutspringdatajpa/</link>
       <pubDate>Tue, 04 Jan 2022 12:10:50 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/aboutspringdatajpa/</guid>
+      <guid>example.com/post/aboutspringdatajpa/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;About SpringDataJPA&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title> About Spring Boot </title>
-      <link>https://summersnowwintercat.github.io/post/aboutspringboot/</link>
+      <link>example.com/post/aboutspringboot/</link>
       <pubDate>Mon, 03 Jan 2022 04:10:50 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/aboutspringboot/</guid>
+      <guid>example.com/post/aboutspringboot/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Spring Boot&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -66,10 +66,10 @@
     
     <item>
       <title> About Maven </title>
-      <link>https://summersnowwintercat.github.io/post/aboutmaven/</link>
+      <link>example.com/post/aboutmaven/</link>
       <pubDate>Fri, 24 Dec 2021 16:10:50 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/aboutmaven/</guid>
+      <guid>example.com/post/aboutmaven/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;About Maven&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -78,10 +78,10 @@
     
     <item>
       <title> About Flask </title>
-      <link>https://summersnowwintercat.github.io/post/aboutflask/</link>
+      <link>example.com/post/aboutflask/</link>
       <pubDate>Tue, 21 Dec 2021 14:10:50 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/aboutflask/</guid>
+      <guid>example.com/post/aboutflask/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Flask&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -90,10 +90,10 @@
     
     <item>
       <title> About Java </title>
-      <link>https://summersnowwintercat.github.io/post/aboutjava/</link>
+      <link>example.com/post/aboutjava/</link>
       <pubDate>Sun, 19 Dec 2021 16:10:50 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/aboutjava/</guid>
+      <guid>example.com/post/aboutjava/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;About Java&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -103,10 +103,10 @@
     
     <item>
       <title> About M1 </title>
-      <link>https://summersnowwintercat.github.io/post/aboutm1/</link>
+      <link>example.com/post/aboutm1/</link>
       <pubDate>Sat, 18 Dec 2021 10:10:40 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/aboutm1/</guid>
+      <guid>example.com/post/aboutm1/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;M1 Support (Software Engineer)&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -116,10 +116,10 @@
     
     <item>
       <title> About Go </title>
-      <link>https://summersnowwintercat.github.io/post/aboutgo/</link>
+      <link>example.com/post/aboutgo/</link>
       <pubDate>Tue, 14 Dec 2021 19:10:50 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/aboutgo/</guid>
+      <guid>example.com/post/aboutgo/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Go&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -128,20 +128,20 @@
     
     <item>
       <title>Twitter Tweepy</title>
-      <link>https://summersnowwintercat.github.io/post/abouttwitter/</link>
+      <link>example.com/post/abouttwitter/</link>
       <pubDate>Tue, 07 Dec 2021 20:30:47 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/abouttwitter/</guid>
+      <guid>example.com/post/abouttwitter/</guid>
       <description>&lt;p&gt;How to Use Tweepy&lt;/p&gt;
 &lt;p&gt;Python で　TwitterApiを通して、キーワードに関する内容を検索&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>MyCat₍ᐞ•༝•ᐞ₎◞ ̑̑</title>
-      <link>https://summersnowwintercat.github.io/post/mikan/</link>
+      <link>example.com/post/mikan/</link>
       <pubDate>Sat, 02 Oct 2021 17:30:00 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/mikan/</guid>
+      <guid>example.com/post/mikan/</guid>
       <description>&lt;p&gt;MyCat:Mikan(蜜柑)&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;2021年8月11日生まれ オス&lt;/p&gt;
@@ -150,10 +150,10 @@
     
     <item>
       <title>Python Opencv Template Matching</title>
-      <link>https://summersnowwintercat.github.io/post/opencvtemplatematching/</link>
+      <link>example.com/post/opencvtemplatematching/</link>
       <pubDate>Tue, 29 Jun 2021 20:31:37 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/opencvtemplatematching/</guid>
+      <guid>example.com/post/opencvtemplatematching/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;OpenCV Template Matching&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -162,10 +162,10 @@
     
     <item>
       <title>Web Crawler( python )</title>
-      <link>https://summersnowwintercat.github.io/post/webcrawler/</link>
+      <link>example.com/post/webcrawler/</link>
       <pubDate>Tue, 20 Oct 2020 10:05:40 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/webcrawler/</guid>
+      <guid>example.com/post/webcrawler/</guid>
       <description>&lt;p&gt;クローラーの作り方&lt;/p&gt;
 &lt;p&gt;簡易クローラーの構造と流れ&lt;/p&gt;
 &lt;blockquote&gt;
@@ -175,10 +175,10 @@
     
     <item>
       <title>MySQL Connector Pooling</title>
-      <link>https://summersnowwintercat.github.io/post/mysqlconnectorpooling/</link>
+      <link>example.com/post/mysqlconnectorpooling/</link>
       <pubDate>Wed, 07 Oct 2020 10:30:37 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/mysqlconnectorpooling/</guid>
+      <guid>example.com/post/mysqlconnectorpooling/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;MySQL Connector Pooling&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -187,30 +187,30 @@
     
     <item>
       <title>Ubuntu Command</title>
-      <link>https://summersnowwintercat.github.io/post/ubuntu_command/</link>
+      <link>example.com/post/ubuntu_command/</link>
       <pubDate>Mon, 10 Aug 2020 11:20:37 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/ubuntu_command/</guid>
+      <guid>example.com/post/ubuntu_command/</guid>
       <description>&lt;p&gt;Ubuntu Base Command  ( 普段よく使われているコマンド )&lt;/p&gt;
 &lt;p&gt;収録中ing &amp;raquo;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>NUC10i5 Hackintosh (Catalina10.15.5) </title>
-      <link>https://summersnowwintercat.github.io/post/hackintonuc10i5/</link>
+      <link>example.com/post/hackintonuc10i5/</link>
       <pubDate>Fri, 17 Jul 2020 12:53:37 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/hackintonuc10i5/</guid>
+      <guid>example.com/post/hackintonuc10i5/</guid>
       <description>&lt;p&gt;文章内容适用于NUC10i5 and NUC10i7机型（已修改)&lt;/p&gt;
 &lt;p&gt;[ The article content applies to Intel NUC10i5 and NUC10i7 ]&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>MySQL 8.0 Installation Ubuntu</title>
-      <link>https://summersnowwintercat.github.io/post/mysqlinstallation/</link>
+      <link>example.com/post/mysqlinstallation/</link>
       <pubDate>Tue, 12 May 2020 10:20:37 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/mysqlinstallation/</guid>
+      <guid>example.com/post/mysqlinstallation/</guid>
       <description>&lt;p&gt;MySQL Installation&lt;/p&gt;
 &lt;p&gt;MySQLのインストール方法や手順となります。&lt;/p&gt;
 &lt;p&gt;MySQLのVersionは8.0&lt;/p&gt;</description>
@@ -218,10 +218,10 @@
     
     <item>
       <title> About MeCab </title>
-      <link>https://summersnowwintercat.github.io/post/aboutmecab/</link>
+      <link>example.com/post/aboutmecab/</link>
       <pubDate>Sun, 19 Jan 2020 10:40:50 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/aboutmecab/</guid>
+      <guid>example.com/post/aboutmecab/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;About MeCab&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -232,30 +232,30 @@
     
     <item>
       <title>PythonFileCalculation</title>
-      <link>https://summersnowwintercat.github.io/post/python_file_calculation/</link>
+      <link>example.com/post/python_file_calculation/</link>
       <pubDate>Mon, 10 Sep 2018 01:20:37 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/python_file_calculation/</guid>
+      <guid>example.com/post/python_file_calculation/</guid>
       <description>&lt;p&gt;File Calculation&lt;/p&gt;
 &lt;p&gt;File Calucution ファンクション&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Python MyQR Module</title>
-      <link>https://summersnowwintercat.github.io/post/python_myqr/</link>
+      <link>example.com/post/python_myqr/</link>
       <pubDate>Fri, 17 Aug 2018 10:30:37 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/python_myqr/</guid>
+      <guid>example.com/post/python_myqr/</guid>
       <description>&lt;p&gt;PythonでQRコードを作る方法〜&lt;/p&gt;
 &lt;p&gt;install MyQR!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>README</title>
-      <link>https://summersnowwintercat.github.io/readme/</link>
+      <link>example.com/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/readme/</guid>
+      <guid>example.com/readme/</guid>
       <description>Skill / スキル Python / Java HTML / JavaScript / CSS / JQuery MySQL / Redis　Docker / Ubuntu / Debain( raspberry pi ) Link / リンク GitHub: SummerSnowWinterCat Pet:ฅ(ↀᴥↀ)ฅ ᗦ↞◃ Go:ハイ！ゴ〜　ᘛ⁐̤ᕐᐷ Java:ハイ！( °o°)ジャバ SpringBoot:ｵﾗｵﾗ〜(꜆꜄•ω•)꜆꜄꜆ Repository / リポジトリ TemplateMatching: OpenCV Template Matching MySQLConnectorPooling:Connector Pooling AboutMeCab: MeCab is a OpenSource Text segmentation Library </description>
     </item>
     

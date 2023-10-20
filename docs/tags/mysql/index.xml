@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MySQL on WinterCat&#39;s blog</title>
-    <link>https://summersnowwintercat.github.io/tags/mysql/</link>
+    <link>example.com/tags/mysql/</link>
     <description>Recent content in MySQL on WinterCat&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 07 Oct 2020 10:30:37 +0900</lastBuildDate><atom:link href="https://summersnowwintercat.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Oct 2020 10:30:37 +0900</lastBuildDate><atom:link href="example.com/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MySQL Connector Pooling</title>
-      <link>https://summersnowwintercat.github.io/post/mysqlconnectorpooling/</link>
+      <link>example.com/post/mysqlconnectorpooling/</link>
       <pubDate>Wed, 07 Oct 2020 10:30:37 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/mysqlconnectorpooling/</guid>
+      <guid>example.com/post/mysqlconnectorpooling/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;MySQL Connector Pooling&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -21,10 +21,10 @@
     
     <item>
       <title>MySQL 8.0 Installation Ubuntu</title>
-      <link>https://summersnowwintercat.github.io/post/mysqlinstallation/</link>
+      <link>example.com/post/mysqlinstallation/</link>
       <pubDate>Tue, 12 May 2020 10:20:37 +0900</pubDate>
       
-      <guid>https://summersnowwintercat.github.io/post/mysqlinstallation/</guid>
+      <guid>example.com/post/mysqlinstallation/</guid>
       <description>&lt;p&gt;MySQL Installation&lt;/p&gt;
 &lt;p&gt;MySQLのインストール方法や手順となります。&lt;/p&gt;
 &lt;p&gt;MySQLのVersionは8.0&lt;/p&gt;</description>
