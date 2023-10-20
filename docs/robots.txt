@@ -13,4 +13,4 @@ Allow: /post/
 User-agent:msnbot
 Allow: /post/
 
-Sitemap: https://wintercat.jp/sitemap.xml
+Sitemap: https://summersnowwintercat.jp/sitemap.xml
